@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "15772559-69e9-38ef-2c15-70674fe47646",
+  "instructors": {
+    "content": [
+      "63d1aa03-136b-4aa8-0c42-fae122078527"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e8a08150-6f85-33c2-8dfc-485d216b93d9",
+    "website": "21w-730-1-expository-writing-exploring-social-and-ethical-issues-through-film-and-print-fall-2002"
+  },
+  "course_title": "Expository Writing: Exploring Social and Ethical Issues through Film and Print",
+  "course_description": "This section of Expository Writing provides the opportunity for students- as readers, viewers, writers and speakers - to engage with social and ethical issues that they care deeply about. Through discussing selected documentary and feature films and the writings of such authors as Maya Angelou, Robert Coles, Charles Dickens, Barbara Ehrenreich, Martin Luther King, Jr., Jonathan Kozol, and Alice Walker, we will explore different perspectives on a range of social problems such as poverty, homelessness, and racial and gender inequality. In assigned essays, students will have the opportunity to write about social and ethical issues of their own choice. This course aims to help students to grow significantly in their ability to understand and grapple with arguments, to integrate secondary print and visual sources and to craft well-reasoned and elegant essays. Students will also keep a reader-writer notebook and give at least one oral presentation. In class we will discuss assigned films and readings, explore strategies for successful academic writing, freewrite and critique one another's essays. Satisfies Phase I and CI Writing Requirements.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.730-1",
+  "course_image_thumbnail": {
+    "content": "b6176f7a-87fa-23ec-a0e3-61ab3f7d97f0",
+    "website": "21w-730-1-expository-writing-exploring-social-and-ethical-issues-through-film-and-print-fall-2002"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "00e2a44b-98c3-4525-b102-135de63886b2",
+  "site_short_id": "21w.730-1-fall-2002",
+  "site_url_path": "courses/21w-730-1-expository-writing-exploring-social-and-ethical-issues-through-film-and-print-fall-2002",
+  "title": "Course Metadata"
+}
